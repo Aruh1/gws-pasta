@@ -1,0 +1,16 @@
+name: Undur Diri
+inputs:
+  - name: diri
+    description: Nama Fansub
+    default: Yurasu
+  - name: tahun
+    description: Tahun berdiri
+
+text: |
+  {diri:camelcase} bakal tutup untuk selamanya. Video perpisahan dari kami sedang on proses dan bakal segera di upload di youtube.
+
+  Maafkan kami buat seluruh kesalahan2 kami, typo2 yg kami buat, delay2 yg kami tidak bs hindari.
+
+  Alasan berhenti dan lain sebagainya bakal kami reveal di youtube nanti. Kami jg bakal mengumumkan {diri:camelcase} nanti bakal bagaimana dan seperti apa ke depannya.
+  
+  Terima kasih buat seluruh teman2 wibu yg sudah mendukung kami dari {tahun:camelcase} sampai 2023. Kami tidak akan lupa
