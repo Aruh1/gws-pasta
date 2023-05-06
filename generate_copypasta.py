@@ -61,7 +61,8 @@ def main():
                     inputs=[
                         CopypastaInput(
                             name=input["name"],
-                            description=input.get("description", input["name"]),
+                            description=input.get(
+                                "description", input["name"]),
                             default=input.get("default", ""),
                         )
                         for input in yamldata["inputs"]
