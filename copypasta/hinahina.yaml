@@ -1,0 +1,34 @@
+name: Hina-hina
+inputs:
+  - name: nama
+    description: Nama
+    default:
+  - name: status
+    description: Status / Deskripsi
+    default:
+  - name: fans
+    description: Nama Fans
+    default:
+  - name: kelebihan
+    description: Kelebihan
+    default:
+  - name: pembanding
+    description: Lawan atau Pembanding
+    default:
+
+text: |
+  MAKSUD LO APA HINA2 {nama:uppercase} HAH!?
+
+  GUE MESTI KASIH TAU YA {nama:uppercase} ITU {status:uppercase}!
+
+  {nama:uppercase} ITU {kelebihan:uppercase}. {pembanding:uppercase} LU GAADA APA2NYA DIBANDING SAMA {nama:uppercase}. 
+  
+  {fans:uppercase} BAKAL NGINCAR LO SAMPE ELO GABAKAL ADA DI BUMI INI! CAMKAN KATA KATA {fans:uppercase}!!!! 
+  
+  LU PIKIR LU BISA SEENAK NYA NGATAIN {nama:uppercase} BEGITU AJA? PIKIR ULANG NJING! 
+  
+  PAS GUA NGETIK INI GUA UDAH HUBUNGIN DAN MEMANGGIL SELURUH {fans:uppercase} DI SEKOJUR DUNIA DAN MUKA LU UDAH GW LACAK BUAT UU ITE! 
+  
+  {fans:uppercase} ADA DIMANA-MANA KAPAN AJA DAN BISA BULLY ELU DENGAN SEGALA CARA, COBA AJA LO GAK NGEHINA {nama:uppercase} ATAU LU BISA JAGA MULUT. 
+  
+  LO NGGA BISA KAN? {pembanding:uppercase} BAKAL HANCUR SAMA KAWAN2 LO YANG LAIN YANG HINA {nama:uppercase}, LU BAKAL MATI.
