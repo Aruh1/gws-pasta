@@ -1,0 +1,24 @@
+name: Istilah Cringe
+inputs:
+  - name: nama
+    description: Nama
+    default:
+
+text: |
+  Wkwk ngakak aja gue mah kalau sampai saat ini masih ada orang yang pakai kata "{nama:camelcase}".
+
+  Sadar dong bos, sekarang itu udah tahun 2023 dan lo masih pakai kata "{nama:camelcase}"? Haha norak banget sumpah gak bohong, keliatannya lo itu cancer banget, jadinya cringe.
+
+  Maaf-maaf aja nih ya, bukannya gue sok elit, tapi ya emang kenyataan gitu mau gimana lagi.
+
+  Udah lah bos, jangan pakai kata "{nama:camelcase}" lagi, gak guna, lagian lo itu udah gede masih aja pakai kata "{nama:camelcase}".
+
+  Kalau lo gak mau keliatan cancer lalu jadinya cringe makanya jangan pakai kata "{nama:camelcase}" lagi.
+
+  Hey, sadar hey.
+
+  Apa mau lo hidup selamanya keliatan cancer jadinya cringe gara-gara pakai kata "{nama:camelcase}" wkwk.
+
+  Pokoknya kalau ada grup wa yang pakai kata "{nama:camelcase}" bakal gue report.
+
+  Dikatain sombong? Bodo amat lah wkwk.
