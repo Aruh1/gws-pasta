@@ -1,0 +1,28 @@
+name: Watermark
+inputs:
+  - name: fansub
+    description: Nama Fansub
+    default: 
+  - name: domain
+    description: Ekstensi Domain
+    default:
+
+text: |
+  Di larang mengcopas video anime ini tanpa izin admin
+
+  Di larang buat di repost di blog sendiri
+
+  Dan kalau mau repost video ini harus cantumin
+  sumber, kredit dan juga back link
+  
+  Buat Fanshare apa salahnya kalian kasih back link
+  
+  Kalian untung dan mimin juga untung
+  
+  Tolong hargai yang ngesub jangan mau enaknya doank
+
+  Terima Kasih
+
+  Jangan lupa kunjungi situs web kami di www.{fansub:lowercase}.{domain:lowercase}
+
+  Present by {fansub:camelcase} Team
